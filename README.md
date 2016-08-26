@@ -1,4 +1,4 @@
-# `String.prototype.toCaseFold`: A small missing piece in JavaScript internationalization
+# `String.prototype.toCaseFold`: case-insensitive comparison in JavaScript
 
 ## Motivation
 
